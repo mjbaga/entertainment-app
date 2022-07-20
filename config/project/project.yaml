@@ -1,0 +1,22 @@
+dateModified: 1658321960
+email:
+  fromEmail: mjdbaga@gmail.com
+  fromName: 'Entertainment App'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    bc7b634d-fa16-4001-9260-834df6fb6bdd: 'Entertainment App'
+    f469c8e7-be63-42b6-90d9-50654fd067de: 'Entertainment App'
+    fd1f3a1e-7b04-47f9-98e4-7dad78133fdc: Common
+system:
+  edition: solo
+  live: true
+  name: 'Entertainment App'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

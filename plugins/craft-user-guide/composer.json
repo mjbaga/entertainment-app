@@ -1,0 +1,24 @@
+{
+  "name": "mjbaga/craft-user-guide",
+  "description": "Plugin development course on CraftQuest IO ",
+  "type": "craft-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marvin Jayson Baga",
+      "homepage": "https://mjbaga-tech.web.app/"
+    }
+  ],
+  "require": {
+    "craftcms/cms": "^4.0.0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "mjbaga\\UserGuide\\": "src/"
+    }
+  },
+  "extra": {
+    "name": "User Guide",
+    "handle": "user-guide"
+  }
+}
